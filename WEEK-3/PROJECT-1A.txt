@@ -1,0 +1,11 @@
+# Start
+# Select item
+# Add item to cart
+# Do you want to purchase another item
+# If yes, Take u bacx to start
+# If no, Proceed to checkout
+# Confirm the item added to cart
+# Input transaction details
+# Complete transaction
+# Set delivary details
+# Stop
