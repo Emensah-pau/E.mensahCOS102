@@ -1,0 +1,16 @@
+,Exports,Type
+0,Cocoa butter,International
+1,Cocoa liquor,International
+2,Cocoa cake,International
+3,Cocoa powder,Local
+, Refreshment Beverages, Confectionery, Intermediate Cocoa Products
+0, Bournvita,Tom Tom,cocoa powder
+1,Hot Chocolate,Buttermint,cocoa butter
+2,,,cocoa liquor
+3,,,cocoa cake
+0,,,
+,Refreshment Beverages brands,Confectionerys brands,Intermediate Cocoa Products brands
+0,CADBURY BOURNVITA,TOMTOM CLASSIC,COCOA POWDER
+1, CADBURY 3-in-1 HOT CHOCOLATE,TOMTOM STRAWBERRY,COCOA BUTTER
+2,,BUTTERMINT,
+0,,,
